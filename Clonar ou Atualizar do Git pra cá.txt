@@ -1,0 +1,5 @@
+//Para clonar um projeto que só existe no gitHub, abra a pasta em que deseja inserir e cole o comando abaixo, o http será encontrado no link do github
+git clone http..
+
+//para atualizar seu projeto local com o que está no git hub basta usar o comando abaixo
+git pull
